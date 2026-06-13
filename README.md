@@ -31,15 +31,19 @@ Cluster 0: High-Value / VIP Customers (Low Recency, High Frequency, High Monetar
 Cluster 1: Casual / Occasional Shoppers (Moderate scores across all three axes).
 Cluster 2: Churned / At-Risk Customers (High Recency, Low Frequency, Low Monetary).
 5. KEY VISUALIZATIONS (SCREENSHOTS)
-Plot 1: Inventory Demand Analysis 
-![Category](PRODUCT CATEGORY DISTRIBUTION90.png) 
-Plot 2: Macro Timeline Revenue Trends  
-![Sales](MONTHLY SALES 90.png) 
 
-Plot 3: At-Risk Retention Matrix   
-![Churn](CHURN RISK 90.png) 
- Plot 4: ML Generated Customer Clusters  
-![Segment](CUSTOMER SEGMENT90.png) 
+**Plot 1: Inventory Demand Analysis**
+![Category](PRODUCT CATEGORY DISTRIBUTION90.png)
+
+**Plot 2: Macro Timeline Revenue Trends**
+![Sales](MONTHLY SALES 90.png)
+
+**Plot 3: At-Risk Retention Matrix**
+![Churn](CHURN RISK 90.png)
+
+**Plot 4: ML Generated Customer Clusters**
+![Segment](CUSTOMER SEGMENT90.png)
+
 6. STRATEGIC BUSINESS RECOMMENDATIONS
 To maximize appraisal scoring, these 5 highly targeted data-driven corporate recommendations are proposed based on the findings:
 Strategic Ad-Spend Allocation: Aggressively reallocate marketing budgets toward the top-performing product categories identified in Plot 1 to capitalize on organic product velocity.
