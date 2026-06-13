@@ -33,16 +33,20 @@ Cluster 2: Churned / At-Risk Customers (High Recency, Low Frequency, Low Monetar
 5. KEY VISUALIZATIONS (SCREENSHOTS)
 
 **Plot 1: Inventory Demand Analysis**
-![Category](PRODUCT CATEGORY DISTRIBUTION90.png)
+<img width="800" height="400" alt="PRODUCT CATEGORY DISTRIBUTION90" src="https://github.com/user-attachments/assets/279a11d6-018b-45ce-b146-8bfc463b333b" />
+
 
 **Plot 2: Macro Timeline Revenue Trends**
-![Sales](MONTHLY SALES 90.png)
+<img width="1200" height="500" alt="MONTHLY SALES 90" src="https://github.com/user-attachments/assets/b2ccdece-cbeb-4c18-a481-043632c7412f" />
+
 
 **Plot 3: At-Risk Retention Matrix**
-![Churn](CHURN RISK 90.png)
+<img width="600" height="400" alt="CHURN RISK 90" src="https://github.com/user-attachments/assets/ed3db301-f91f-4a7c-8bf2-2228491513f8" />
+
 
 **Plot 4: ML Generated Customer Clusters**
-![Segment](CUSTOMER SEGMENT90.png)
+<img width="800" height="500" alt="CUSTOMER SEGMENT90" src="https://github.com/user-attachments/assets/30cf55d1-4d36-42d0-b125-84e3bc1b088f" />
+
 
 6. STRATEGIC BUSINESS RECOMMENDATIONS
 To maximize appraisal scoring, these 5 highly targeted data-driven corporate recommendations are proposed based on the findings:
